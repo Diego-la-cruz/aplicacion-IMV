@@ -1,0 +1,16 @@
+Hola bienvenido usuario.
+
+En la universidad politécnica de Texcoco se desarrollo una aplicación de:
+Cálculo de índice de masa corporal.
+
+El cual calcula usando la edad, altura y peso de la persona, así como una adicional de identificar si la persona es hombre o mujer.
+
+La versión de la aplicación es la 1.0.0 ya que está en su comienzo.
+
+Los posibles errores que se generaron fue la ubicación del archivo csv, la funcionalidad de las ventas y errores con la ubicación de la imagen 
+
+La aplicación puedes ser ejecutado en sistemas operativos como Windows o Linux.
+
+Para el uso de la aplicación es necesario tener instalado Python, el cual puedes descargarlo en su página oficial https://www.python.org/.
+
+Sin más que decir me despido.
