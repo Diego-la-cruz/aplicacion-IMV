@@ -1,7 +1,0 @@
-Metodoligia Kanban
-El Kanban es una metodología ágil que permite visualizar y controlar el flujo de trabajo de manera eficiente. A través de sus fases y pasos, se puede implementar de manera efectiva en cualquier equipo u organización, mejorando la productividad y la calidad de los proyectos.
-    Inicio del proyecto: En esta fase se definen los objetivos del proyecto, se identifican las tareas y se asignan los recursos necesarios.
-    Diseño del tablero Kanban: En esta fase se diseña el tablero Kanban, donde se visualizarán las tareas y su estado. Se define la estructura y las columnas del tablero, así como los indicadores visuales que se utilizarán para representar cada tarea.
-    Implementación del Kanban: En esta fase se implementa el tablero Kanban y se comienza a utilizar en el equipo o en la organización. Se asignan las tareas a cada miembro del equipo y se establecen los límites de trabajo en progreso.
-    Seguimiento y mejora continua: En esta fase se realiza un seguimiento constante del flujo de trabajo, se identifican posibles cuellos de botella o problemas en el proceso y se toman medidas para mejorar la eficiencia y la productividad.
-
